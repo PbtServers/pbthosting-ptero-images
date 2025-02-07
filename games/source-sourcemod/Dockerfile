@@ -1,7 +1,7 @@
 FROM        ubuntu:20.04
 
 LABEL       author="Softwarenoob" maintainer="admin@softwarenoob.com"
-LABEL       org.opencontainers.image.source="https://github.com/Software-Noob/pterodactyl-images"
+LABEL       org.opencontainers.image.source="https://github.com/PbtServers/pbthosting-ptero-images"
 LABEL       org.opencontainers.image.licenses="MIT"
 
 ENV         DEBIAN_FRONTEND noninteractive
