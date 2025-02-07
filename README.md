@@ -4,32 +4,12 @@
 
 | Image                                                                                                  | Supported platforms |
 | ------------------------------------------------------------------------------------------------------ | ------------------- |
-| [Java Amazon Corretto](https://github.com/PbtServers/pbthosting-ptero-images#java-amazon-corretto-amd64arm64) | AMD64, ARM64        |
 | [Java Azul Zulu](https://github.com/PbtServers/pbthosting-ptero-images#java-azul-zulu-amd64arm64)             | AMD64, ARM64        |
-| [Java Dragonwell](https://github.com/PbtServers/pbthosting-ptero-images#java-dragonwell-amd64arm64)           | AMD64, ARM64        |
 | [Java Eclipse Temurin](https://github.com/PbtServers/pbthosting-ptero-images#java-eclipse-temurin-amd64arm64) | AMD64, ARM64        |
 | [Java GraalVM](https://github.com/PbtServers/pbthosting-ptero-images#java-graalvm-amd64arm64)                 | AMD64, ARM64        |
-| [Java Liberica](https://github.com/PbtServers/pbthosting-ptero-images#java-liberica-amd64arm64)               | AMD64, ARM64        |
 | [Java OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images#java-openj9-amd64)                        | AMD64               |
-| [Java Shenandoah](https://github.com/PbtServers/pbthosting-ptero-images#java-shenandoah-amd64arm64)           | AMD64, ARM64        |
 | [Node.js](https://github.com/PbtServers/pbthosting-ptero-images#nodejs-amd64arm64)                            | AMD64, ARM64        |
 | [Python](https://github.com/PbtServers/pbthosting-ptero-images#python-amd64arm64)                             | AMD64, ARM64        |
-| [Sourcemod](https://github.com/PbtServers/pbthosting-ptero-images#sourcemod-amd64)                            | AMD64               |
-
-### Java Amazon Corretto [AMD64/ARM64]
-
-- [Java 8 Amazon Corretto](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-corretto/8)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_8_corretto`
-- [Java 11 Amazon Corretto](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-corretto/11)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_11_corretto`
-- [Java 17 Amazon Corretto](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-corretto/17)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17_corretto`
-- [Java 19 Amazon Corretto](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-corretto/19)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_19_corretto`
-- [Java 20 Amazon Corretto](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-corretto/20)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_20_corretto`
-- [Java 21 Amazon Corretto](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-corretto/21)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_corretto`
 
 ### Java Azul Zulu [AMD64/ARM64]
 
@@ -51,17 +31,6 @@
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_zulu`
 - [Java 22 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/22)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_22_zulu`
-
-### Java Dragonwell [AMD64/ARM64]
-
-- [Java 8 Dragonwell](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-dragonwell/8)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_8_dragonwell`
-- [Java 11 Dragonwell](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-dragonwell/11)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_11_dragonwell`
-- [Java 17 Dragonwell](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-dragonwell/17)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17_dragonwell`
-- [Java 21 Dragonwell](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-dragonwell/21)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_dragonwell`
 
 ### Java Eclipse Temurin [AMD64/ARM64]
 
@@ -99,19 +68,6 @@
 - [Java 22 GraalVM JDK](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-graalvm/22)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_22_graalvm`
 
-### Java Liberica [AMD64/ARM64]
-
-- [Java 8 Liberica](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-liberica/8)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_8_liberica`
-- [Java 11 Liberica](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-liberica/11)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_11_liberica`
-- [Java 17 Liberica](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-liberica/17)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17_liberica`
-- [Java 21 Liberica](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-liberica/21)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_liberica`
-- [Java 22 Liberica](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-liberica/22)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_22_liberica`
-
 ### Java OpenJ9 [AMD64/ARM64]
 
 - [Java 8 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/8)
@@ -128,19 +84,6 @@
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_20_openj9`
 - [Java 21 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/21)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_openj9`
-
-### Java Shipilev Experimental [AMD64/ARM64]
-
-These are [shipilev experimental builds.](https://builds.shipilev.net/) If you're looking for Shenandoah GC, it is also by default shipped with at least Azul, Corretto and Temurin images starting with Java 11.
-
-- [Java 8 Shenandoah](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-shenandoah/8)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_8_shenandoah`
-- [Java 11 Shenandoah](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-shenandoah/11)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_11_shenandoah`
-- [Java 17 Shenandoah](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-shenandoah/17)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17_shenandoah`
-- [Java 21 Shenandoah](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-shenandoah/21)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_shenandoah`
 
 ### Node.js [AMD64/ARM64]
 
