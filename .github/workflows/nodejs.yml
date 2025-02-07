@@ -62,4 +62,4 @@ jobs:
           platforms: linux/amd64, linux/arm64
           file: ./nodejs/${{ matrix.tag }}/Dockerfile
           push: true
-          tags: ghcr.io/software-noob/pterodactyl-images:nodejs_${{ matrix.tag }}
+          tags: ghcr.io/PbtServers/pbthosting-ptero-images:nodejs_${{ matrix.tag }}
