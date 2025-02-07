@@ -50,4 +50,4 @@ jobs:
           platforms: linux/amd64
           file: ./games/${{ matrix.tag }}/Dockerfile
           push: true
-          tags: ghcr.io/PbtServers/pbthosting-ptero-images:games_${{ matrix.tag }}
+          tags: ghcr.io/pbtservers/pbthosting-ptero-images:games_${{ matrix.tag }}
