@@ -17,20 +17,10 @@
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_8_zulu`
 - [Java 11 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/11)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_11_zulu`
-- [Java 16 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/16)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_16_zulu`
 - [Java 17 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/17)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17_zulu`
-- [Java 18 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/18)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_18_zulu`
-- [Java 19 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/19)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_19_zulu`
-- [Java 20 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/20)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_20_zulu`
 - [Java 21 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/21)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_zulu`
-- [Java 22 Zulu](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-zulu/22)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_22_zulu`
 
 ### Java Eclipse Temurin [AMD64/ARM64]
 
@@ -38,20 +28,10 @@
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_8`
 - [Java 11](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/11)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_11`
-- [Java 16](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/16)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_16`
 - [Java 17](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/17)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17`
-- [Java 18](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/18)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_18`
-- [Java 19](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/19)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_19`
-- [Java 20](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/20)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_20`
 - [Java 21](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/21)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21`
-- [Java 22](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java/22)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_22`
 
 ### Java GraalVM [AMD64/ARM64]
 
@@ -65,8 +45,6 @@
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17_graalvm`
 - [Java 21 GraalVM JDK](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-graalvm/21)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_graalvm`
-- [Java 22 GraalVM JDK](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-graalvm/22)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_22_graalvm`
 
 ### Java OpenJ9 [AMD64/ARM64]
 
@@ -74,14 +52,8 @@
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_8_openj9`
 - [Java 11 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/11)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_11_openj9`
-- [Java 16 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/16)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_16_openj9`
 - [Java 17 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/17)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_17_openj9`
-- [Java 18 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/18)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_18_openj9`
-- [Java 20 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/20)
-  - `ghcr.io/PbtServers/pbthosting-ptero-images:java_20_openj9`
 - [Java 21 OpenJ9](https://github.com/PbtServers/pbthosting-ptero-images/tree/main/java-openj9/21)
   - `ghcr.io/PbtServers/pbthosting-ptero-images:java_21_openj9`
 
