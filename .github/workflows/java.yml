@@ -27,13 +27,9 @@ jobs:
       matrix:
         tag:
           - 8
-          - 16
+          - 11
           - 17
-          - 18
-          - 19
-          - 20
           - 21
-          - 22
     steps:
       - name: Git checkout for Github repository workspace
         uses: actions/checkout@v4
@@ -60,4 +56,4 @@ jobs:
           platforms: linux/amd64, linux/arm64
           file: ./java/${{ matrix.tag }}/Dockerfile
           push: true
-          tags: ghcr.io/software-noob/pterodactyl-images:java_${{ matrix.tag }}
+          tags: ghcr.io/PbtServers/pbthosting-ptero-images:java_${{ matrix.tag }}
