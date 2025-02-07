@@ -1,7 +1,7 @@
 FROM        ghcr.io/graalvm/jdk-community:21-ol9
 
 LABEL       author="Softwarenoob" maintainer="admin@softwarenoob.com"
-LABEL       org.opencontainers.image.source="https://github.com/PbtServers/pbthosting-ptero-images"
+LABEL       org.opencontainers.image.source="https://github.com/pbtservers/pbthosting-ptero-images"
 LABEL       org.opencontainers.image.licenses="MIT"
 
 RUN         microdnf update \
