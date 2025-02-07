@@ -1,7 +1,7 @@
 FROM        ibm-semeru-runtimes:open-11-jdk
 
 LABEL       author="Softwarenoob" maintainer="admin@softwarenoob.com"
-LABEL       org.opencontainers.image.source="https://github.com/PbtServers/pbthosting-ptero-images"
+LABEL       org.opencontainers.image.source="https://github.com/pbtservers/pbthosting-ptero-images"
 LABEL       org.opencontainers.image.licenses="MIT"
 
 RUN         apt-get update -y \
